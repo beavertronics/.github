@@ -3,7 +3,7 @@
 ***
 
 # Who are we?
-We are a First Robotics Competition team located in Beaverton, Oregon. We compete in a yearly competition where we have six weeks to build and compete with a robot. 
+We are a FIRST Robotics Competition team located in Beaverton, Oregon. We participate in a yearly competition in which we have six weeks to build and compete with a robot. 
 
 Within our team, we have sub-teams such as:
 - Programming
