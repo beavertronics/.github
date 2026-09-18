@@ -32,7 +32,7 @@ Below are some of our featured projects.
 | [2025 - BunnyBots](https://github.com/beavertronics/2025-Bunnybots-5970) | | Catlin Gabel BunnyBots | |
 | [2025 - REEFSCAPE](https://github.com/beavertronics/2025-REEFSCAPE-5970) | Radek | Week 2 CAIS, Week 4 Wilsonville | While this year was supposed to be our first year with swerve, due to shipping delays we did not have a swerve drivetrain and had to swap back to west-coast drive before our first competition. This robot was pretty simple as we didn't have any fancy odometry or sensors. We did have one preload auto. |
 | [2024 - BunnyBots](https://github.com/beavertronics/2024-bunnybots-5970) | | Catlin Gabel BunnyBots | |
-| [2024 - CRESCENDO](https://github.com/beavertronics/2024-robotcode-5970) | Beyoncé | Week 1 CAIS, Week 4 Wilsonville | |
+| [2024 - CRESCENDO](https://github.com/beavertronics/2024-robotcode-5970) | Beyoncé | Week 1 CAIS, Week 4 Wilsonville | This year was an attempt at having vision, with a co-processor and two cameras mounted. However we did not have time to get this working and instead the cameras were used as driver cams. We had a preload auto but besides that, it was a rather simple robot. |
 | [2023 - BunnyBots](https://github.com/beavertronics/5970-bunnybots-2023) | | Catlin Gabel BunnyBots | |
 | [2023 - CHARGED UP](https://github.com/beavertronics/2023-Robotcode-5970-main-real) | Lockpick | Week 1 CAIS, Week 2 Wilsonville | |
 | [2022 - BunnyBots](https://github.com/beavertronics/2022-bb-wills) | | Catlin Gabel BunnyBots | |
