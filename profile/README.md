@@ -28,7 +28,15 @@ Below are some of our featured projects.
 
 | Year | Robot | How we did |
 | -- | -- | -- |
-| [2026 - Rebuilt](https://github.com/beavertronics/2026-REBUILT-5970) | Crystal Skull | x |
+| [2026 - REBUILT](https://github.com/beavertronics/2026-REBUILT-5970) | Crystal Skull | x |
 | [2025 - Bunnybots](https://github.com/beavertronics/2025-Bunnybots-5970) | | x |
-| [2025 - Reefscape](https://github.com/beavertronics/2025-REEFSCAPE-5970) | Radek | x |
-| [2024 - Crescendo](https://github.com/beavertronics/2024-robotcode-5970) | Beyoncé | x |
+| [2025 - REEFSCAPE](https://github.com/beavertronics/2025-REEFSCAPE-5970) | Radek | x |
+| [2024 - CRESCENDO](https://github.com/beavertronics/2024-robotcode-5970) | Beyoncé | x |
+| 2023 - CHARGED UP | | x |
+| 2022 - RAPID REACT | | x |
+| 2021 - INFINITE RECHARGE | | x |
+| 2020 - INFINITE RECHARGE | | x |
+| 2019 - DESTINATION: DEEP SPACE | | x |
+| 2018 - FIRST POWER UP | | x |
+| 2017 - FIRST STEAMWorks | | x |
+| 2016 - FIRST Stronghold | | x |
