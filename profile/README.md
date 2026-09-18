@@ -35,7 +35,8 @@ Below are some of our featured projects.
 | [2024 - CRESCENDO](https://github.com/beavertronics/2024-robotcode-5970) | Beyoncé | x |
 | [2023 - BunnyBots](https://github.com/beavertronics/5970-bunnybots-2023) | | x |
 | [2023 - CHARGED UP](https://github.com/beavertronics/2023-Robotcode-5970-main-real) | Lockpick | x |
-| 2022 - RAPID REACT | Lanky | x |
+| [2022 - BunnyBots](https://github.com/beavertronics/2022-bb-wills) | | x |
+| [2022 - RAPID REACT](https://github.com/beavertronics/2022-robot-code-java) | Lanky | x |
 | 2021 - INFINITE RECHARGE | Sandcrawler | x |
 | 2020 - INFINITE RECHARGE | Sandcrawler | x |
 | 2019 - DESTINATION: DEEP SPACE | OOWA | x |
