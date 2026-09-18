@@ -24,15 +24,17 @@ Below are some of our featured projects.
 #
 
 # Past years
-*for a summary of how we did, check out our page on [our past robots](https://team5970.org/robots/).*
+*This page covers the past seasons from a programming view. For a summary of how we did overall, check out our page on [our past robots](https://team5970.org/robots/).*
 
 | Year | Robot | How we did |
 | -- | -- | -- |
 | [2026 - REBUILT](https://github.com/beavertronics/2026-REBUILT-5970) | Crystal Skull | x |
-| [2025 - Bunnybots](https://github.com/beavertronics/2025-Bunnybots-5970) | | x |
+| [2025 - BunnyBots](https://github.com/beavertronics/2025-Bunnybots-5970) | | x |
 | [2025 - REEFSCAPE](https://github.com/beavertronics/2025-REEFSCAPE-5970) | Radek | x |
+| [2024 - BunnyBots](https://github.com/beavertronics/2024-bunnybots-5970) | | x |
 | [2024 - CRESCENDO](https://github.com/beavertronics/2024-robotcode-5970) | Beyoncé | x |
-| 2023 - CHARGED UP | Lockpick | x |
+| [2023 - BunnyBots](https://github.com/beavertronics/5970-bunnybots-2023) | | x |
+| [2023 - CHARGED UP](https://github.com/beavertronics/2023-Robotcode-5970-main-real) | Lockpick | x |
 | 2022 - RAPID REACT | Lanky | x |
 | 2021 - INFINITE RECHARGE | Sandcrawler | x |
 | 2020 - INFINITE RECHARGE | Sandcrawler | x |
