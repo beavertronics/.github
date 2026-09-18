@@ -30,16 +30,16 @@ Below are some of our featured projects.
 | -- | -- | -- | -- |
 | [2026 - REBUILT](https://github.com/beavertronics/2026-REBUILT-5970) | Crystal Skull | Week 2 Wilsonville, Week 4 CAIS | This year was our first competition year with a swerve drivetrain, which went decently well. We had initial issues with odometry and field-oriented drive at Wilsonville, along with vision issues. We had cameras for vision put on the robot but ultimately did not have any autos or any other features that used it due to time constraints and issues with the Orange Pi 5. |
 | [2025 - BunnyBots](https://github.com/beavertronics/2025-Bunnybots-5970) | | | |
-| [2025 - REEFSCAPE](https://github.com/beavertronics/2025-REEFSCAPE-5970) | Radek | | |
+| [2025 - REEFSCAPE](https://github.com/beavertronics/2025-REEFSCAPE-5970) | Radek | Week 2 CAIS, Week 4 Wilsonville | |
 | [2024 - BunnyBots](https://github.com/beavertronics/2024-bunnybots-5970) | | | |
-| [2024 - CRESCENDO](https://github.com/beavertronics/2024-robotcode-5970) | Beyoncé | x |
+| [2024 - CRESCENDO](https://github.com/beavertronics/2024-robotcode-5970) | Beyoncé | Week 1 CAIS, Week 4 Wilsonville | |
 | [2023 - BunnyBots](https://github.com/beavertronics/5970-bunnybots-2023) | | | |
-| [2023 - CHARGED UP](https://github.com/beavertronics/2023-Robotcode-5970-main-real) | Lockpick | x |
+| [2023 - CHARGED UP](https://github.com/beavertronics/2023-Robotcode-5970-main-real) | Lockpick | Week 1 CAIS, Week 2 Wilsonville | |
 | [2022 - BunnyBots](https://github.com/beavertronics/2022-bb-wills) | | | |
-| [2022 - RAPID REACT](https://github.com/beavertronics/2022code5970) | Lanky | x |
+| [2022 - RAPID REACT](https://github.com/beavertronics/2022code5970) | Lanky | Week 1 CAIS, Week 2 Wilsonville | |
 | 2021 - INFINITE RECHARGE | Sandcrawler | x |
-| [2020 - INFINITE RECHARGE](https://github.com/beavertronics/2020code5970) | Sandcrawler | x |
-| [2019 - DESTINATION: DEEP SPACE](https://github.com/beavertronics/2019code5970) | OOWA | x |
-| 2018 - FIRST POWER UP | Revy the Riveter | x |
-| 2017 - FIRST STEAMWorks | Hangry | x |
-| 2016 - FIRST Stronghold | Spanish Inquisition | x |
+| [2020 - INFINITE RECHARGE](https://github.com/beavertronics/2020code5970) | Sandcrawler | | |
+| [2019 - DESTINATION: DEEP SPACE](https://github.com/beavertronics/2019code5970) | OOWA | Week 3 CAIS, Week 5 Lake Oswego | |
+| 2018 - FIRST POWER UP | Revy the Riveter | Week 1 CAIS, Week 5 Lake Oswego | |
+| 2017 - FIRST STEAMWorks | Hangry | Week 4 CAIS, Week 5 Lake Oswego, Week 6 PNW DCMP, Roebling Division | |
+| 2016 - FIRST Stronghold | Spanish Inquisition | Week 2 Wilsonville, Week 5 CAIS, Week 6 PNW DCMP | |
