@@ -22,3 +22,6 @@ Below are some of our featured projects.
 - **[Beaverlib](https://github.com/beavertronics/beaverlib)** - This is our Kotlin library with a variety of helpful tools and features. It has branches for year-specific features (both main season and off-season events, such as Bunnybots), as well as the main branch for year-agnostic features.
 - **[Website repository](https://github.com/beavertronics/beavertronics.github.io)** - This is the repository that is a source for our website, which can be viewed at [https://team5970.org](https://team5970.org). Our website is built and hosted by Cloudflare.
 - **[Subteam quiz](https://github.com/beavertronics/subteam-quiz)** - This is a quiz designed to identify what sub-team is best for a person.
+
+# Past years
+*for a summary of how we did, check out our page on [our past robots](https://team5970.org/robots/).*
