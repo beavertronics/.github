@@ -24,7 +24,7 @@ Below are some of our featured projects.
 #
 
 # Past years
-*This page covers the past seasons from a more technical view. For a summary of how we did overall with more details, check out our page on [our past robots](https://team5970.org/robots/).*
+*This page summarizes the past seasons from a technical view. For a summary of how we did overall with more details about the year, check out our page on [our past robots](https://team5970.org/robots/).*
 
 | Year | Robot | Competitions | How we did |
 | -- | -- | -- | -- |
