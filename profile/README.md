@@ -17,9 +17,13 @@ Within our team, we have sub-teams such as:
 Below are some of our featured projects.
 
 - **[Swerve](https://github.com/beavertronics/Swerve)** - This is our template repository for each years robot code, written in Kotlin. It is kept up to date with the latest years version of libraries and features.
-- **[Beaverlib](https://github.com/beavertronics/beaverlib)** - This is our Kotlin library with a variety of helpful tools and features. It has branches for year-specific features (both main season and off-season events, such as Bunnybots), as well as the main branch for year-agnostic features.
 - **[Website](https://github.com/beavertronics/website)** - This is the repository that is a source for our website, which can be viewed at [https://team5970.org](https://team5970.org). Our website is built and hosted by Cloudflare, with a domain provided by Porkbun.
 - **[Subteam quiz](https://github.com/beavertronics/subteam-quiz)** - This is a quiz designed to identify what sub-team is best for a person.
+
+# Past Projects
+These projects are deprecated or no longer maintained, yet we still want to show the efforts of our students.
+
+- **[Beaverlib](https://github.com/beavertronics/beaverlib)** - This is our Kotlin library with a variety of helpful tools and features. It has branches for year-specific features (both main season and off-season events, such as Bunnybots), as well as the main branch for year-agnostic features.
 
 #
 
