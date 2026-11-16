@@ -1,4 +1,5 @@
 # Team 5970, Beavertronics
+<small> *for GitHub resources for members, go [here](https://github.com/beavertronics?view_as=member).* </small>
 
 # Who are we?
 We are a FIRST Robotics Competition team located in Beaverton, Oregon. We participate in a yearly competition in which we have six weeks to build and compete with a robot. 
