@@ -1,4 +1,4 @@
-# Team 5970, Beavertronics
+# Team 5970 Beavertronics
 <small> *for GitHub resources for members, go [here](https://github.com/beavertronics?view_as=member).* </small>
 
 # Who are we?
